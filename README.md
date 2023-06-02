@@ -1,2 +1,2 @@
 # TypeTextLikeAHuman
-Escreve texto simulando a digitação de um humano, permitindo erro e também a correção posteriormente do erro
+Escreve texto simulando a digitação de um humano, simulando também erro de digitação (opcional, o erro é corrigido logo em seguida)
